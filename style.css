@@ -1,0 +1,49 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-image: url(./hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.avif);
+  background-size: cover;
+  color: #393b3b;
+  margin: 0;
+ 
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  width: 99%;
+}
+
+.need {
+  text-align: right;
+}
+
+.need a {
+  margin: 15px;
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.container {
+  padding: 100px 60px;
+  
+}
+
+.about {
+  color: #0e0101;
+  max-width: 400px;
+}
+
+
+.websites a {
+  margin-right: 15px;
+  color: #333;
+}
+
+ul {
+  list-style-type: square;
+  
+}
+#about{
+  scroll-margin-top: 80px;
+}
